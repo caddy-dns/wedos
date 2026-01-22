@@ -235,6 +235,7 @@ github.com/libdns/template v1.0.0 h1:Hic9xlhY4wEdF/PbI9WPFph83+xhVIDoNEie8F18EQU
 github.com/libdns/template v1.0.0/go.mod h1:tDQxPb2aiznqllvuziHzE51Oyl4XspzA6hiYbezfbfc=
 github.com/libdns/wedos v1.0.0 h1:gPZZADTOnbYCjTGssAGyqACEnbT58079NhDhTWNq5uU=
 github.com/libdns/wedos v1.0.0/go.mod h1:ZlM++YUkqjUf35QuF4KPeaC/6gNkBOpDIiebcJfPTFo=
+github.com/libdns/wedos v1.0.1/go.mod h1:ZlM++YUkqjUf35QuF4KPeaC/6gNkBOpDIiebcJfPTFo=
 github.com/lunixbochs/vtclean v1.0.0 h1:xu2sLAri4lGiovBDQKxl5mrXyESr3gUr5m5SM5+LVb8=
 github.com/lunixbochs/vtclean v1.0.0/go.mod h1:pHhQNgMf3btfWnGBVipUOjRYhoOsdGqdm/+2c2E2WMI=
 github.com/mailru/easyjson v0.0.0-20190312143242-1de009706dbe h1:W/GaMY0y69G4cFlmsC6B9sbuo2fP8OFP1ABjt4kPz+w=
