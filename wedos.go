@@ -28,7 +28,6 @@ func (p *Provider) Provision(ctx caddy.Context) error {
 	repl := caddy.NewReplacer()
 	p.Provider.Username = repl.ReplaceAll(p.Provider.Username, "")
 	p.Provider.Password = repl.ReplaceAll(p.Provider.Password, "")
-	fmt.Println(p.Provider.Username)
 	if p.Provider.Username == "" || p.Provider.Password == "" {
 		return fmt.Errorf("missing username and/or password")
 	}
