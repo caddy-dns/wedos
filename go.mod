@@ -4,7 +4,7 @@ go 1.25.5
 
 require (
 	github.com/caddyserver/caddy/v2 v2.10.2
-	github.com/libdns/wedos v1.0.2
+	github.com/libdns/wedos v1.0.3
 )
 
 // For local testing
